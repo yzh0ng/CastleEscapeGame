@@ -1,6 +1,6 @@
 # CastleEscapeGame
 
-#### the player’s experience
+#### The Player’s Experience:
 The player enters their nom-du-guerre
 Player is told that they are in the "Grand Foyer" of the house and that there are
 3 doors, 1 to the "Study" on the left, 1 to a "Documents" room straight ahead, and
