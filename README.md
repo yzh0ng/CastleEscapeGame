@@ -1,6 +1,6 @@
 # CastleEscapeGame
 
-#### The Player’s Experience:
+#### The Player’s Experience
 The player enters their nom-du-guerre
 Player is told that they are in the "Grand Foyer" of the house and that there are
 3 doors, 1 to the "Study" on the left, 1 to a "Documents" room straight ahead, and
@@ -14,8 +14,6 @@ trapped, and you can draw the Front Door as a red bit of wall.
 Now you have the first part of a diagram of the mansion!
 The player is asked to choose a door to step though.
 The player enters the chosen room! The room can be spooky or whatever you want
-(like: `print("Oh, {player_name}, you just felt an evil presence pass through
-you!")` or whatever.
 The map diagram is updated, and the player is told what’s in the room depending on
 which room they went into:
 * in the Study, there is a pen and paper on one table, and a pen, a calculator and
