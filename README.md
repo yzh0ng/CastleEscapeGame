@@ -9,7 +9,7 @@ The player is then told that the front door to the Foyer has closed and locked! 
 goal of the game is find a way to escape! Don’t forget to tell your player they are
 trapped.
 The player is asked to choose a door to step though.
-The player enters the chosen room! The room can be spooky or whatever you want
+The player enters the chosen room! The room can be spooky.
 The map diagram is updated, and the player is told what’s in the room depending on
 which room they went into:
 * in the Study, there is a pen and paper on one table, and a pen, a calculator and
